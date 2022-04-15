@@ -64,7 +64,7 @@ body {
 }
 #main .user_img img {
   width: 30em;
-  height: 50em;
+  height: 90em;
   border-radius: 50%;
   margin: 0 30px;
   box-shadow: 0 0 50px rgba(30, 150, 100, 100);
@@ -218,7 +218,7 @@ body {
   content: "";
   position: absolute;
   width: 20em;
-  height: 20em;
+  height: 40em;
   background: #f953c6; 
   background: -webkit-linear-gradient(
     to right,
@@ -277,7 +277,7 @@ body {
   font-size: 8em;
 }
 .projects .container .main_box .box {
-  width: 20em;
+  width: 50em;
   margin-left: 0.8em;
   padding-right: 0.5em;
 }
